@@ -1,4 +1,15 @@
-# stock-inventory-application
-A stock inventory application is a software program designed to help businesses manage their inventory by tracking stock levels, 
-recording purchases and sales, and generating reports on inventory movements. 
-The application can be used by businesses of all sizes, from small retail stores to large warehouses and manufacturing plants
+# Student Result Management System
+
+video demo - https://youtu.be/tm0XTuFnzx8
+
+### How do I get set up? ###
+
+* Install XAMP
+* Add the database file 
+
+### contact ###
+projectworldsofficial@gmail.com
+
+more projects website - https://projectworlds.in
+
+
